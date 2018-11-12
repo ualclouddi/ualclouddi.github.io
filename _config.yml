@@ -1,0 +1,13 @@
+
+# Site settings
+title: Cloud-DI. Universidad de Almería
+email: clouddi@ual.es
+description: > # this means to ignore newlines until "baseurl:"
+  Cloud-DI es un proyecto cloud on-premise que ofrece Infraestrucutra como servicio (OpenStack-DI) ...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cloud.di.ual.es" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  ualclouddi
+
+# Build settings
+markdown: kramdown
