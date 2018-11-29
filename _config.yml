@@ -6,11 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ATI (Avances en Tecnologías Informáticas)
-email: clouddi@ual.es
+title: UAL Cloud-DI. Departamento de Informática - UAL
 description: > # Bla bla bla.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cloud.di.ual.es" # the base hostname & protocol for your site
+
+email: clouddi@ual.es
 # twitter_username: ualclouddi
 github_username:  ualclouddi
 
